@@ -10,6 +10,7 @@
 *.log
 *.htm
 *.$$$
+*.pdf
 
 #Python stuff
 scripts/__pycache__/
@@ -19,3 +20,4 @@ scripts/__pycache__/
 
 __SHEMPEL__/Diploma/History/*
 __SHEMPEL__/Diploma/Project Logs for Diploma/*
+__SHEMPEL__/Diploma/__Previews/*
